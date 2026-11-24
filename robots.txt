@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ags-gaming-sud.alwaysdata.net/sitemap.xml
